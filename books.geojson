@@ -1,0 +1,9 @@
+var books = {
+"type": "FeatureCollection",
+"name": "Eventos_1",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Title": "Red Riding Hood", "Author-from": "Germany", "Set-in": "Germany", "Category": "Fiction", "coordinates": [ 49.281515,10.7053693 ] } },
+{ "type": "Feature", "properties": { "Title": "The Ape, the Snake, and the Lion", "Author-from": "Zanzibar", "Set-in": "Zanzibar", "Category": "Fiction", "coordinates": [ -6.1645897,39.1606318 ] } },
+]
+}
